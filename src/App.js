@@ -10,7 +10,7 @@ class App extends Component {
   render() {
     return (
       <Router>
-        <h1>Jannicks React Website</h1>
+        <h1>Jannicks React Tweede Website</h1>
         <ul>
             <li>
               <Link to="/">Home</Link>
